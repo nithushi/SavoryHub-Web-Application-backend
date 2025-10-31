@@ -127,3 +127,7 @@ All routes are protected by default unless specified otherwise.
 * **Admin Stats (`/api/admin`)**:
     * `GET /stats`: `ADMIN Role Required`
 * **Static Files (`/images/**`, `/uploads/profile-images/**`)**: `PUBLIC`
+
+## ✨ Credits
+
+Developed by [M. Nithushi Shavindi]. 
