@@ -4,8 +4,7 @@ This is the complete backend REST API for **SavoryHub**, a full-stack food deliv
 
 This API handles all business logic, data persistence, and security for the application, including user authentication, role-based authorization (USER vs. ADMIN), product management, and order processing.
 
--   **Frontend (React) Repository:** `[Link to your Frontend Repo]` (මෙහි ඔබේ frontend repository link එක දාන්න)
-
+-   **Frontend (React) Repository:** `(https://github.com/nithushi/SavoryHub-Web-Application-frontend)`
 ---
 
 ## ✨ Features
